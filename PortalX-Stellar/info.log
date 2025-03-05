@@ -1,0 +1,259 @@
+2024-04-06 15:17:10,415 - info - INFO - Starting historical data and candle update for all pairs in database.
+2024-04-06 17:58:01,683 - info - INFO - Fetching historical data for XLM/USDC pairing...
+2024-04-06 18:46:24,093 - info - INFO - Generating and updating candle data for XLM/USDC pairing...
+2024-04-06 19:00:05,327 - info - INFO - Total trades: 1593200
+2024-04-06 19:00:05,331 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 19:00:05,332 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 19:00:06,912 - info - INFO - Candle data generation and update complete for the 1m interval of the XLM/USDC pairing.
+2024-04-06 19:00:06,928 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 19:02:40,427 - info - INFO - Total trades: 1593200
+2024-04-06 19:02:40,429 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 19:02:40,429 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 19:02:41,842 - info - INFO - Candle data generation and update complete for the 5m interval of the XLM/USDC pairing.
+2024-04-06 19:02:41,851 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 19:10:29,131 - info - INFO - Total trades: 1593200
+2024-04-06 19:10:29,134 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 19:10:29,135 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 19:10:31,586 - info - INFO - Candle data generation and update complete for the 15m interval of the XLM/USDC pairing.
+2024-04-06 19:10:31,599 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 19:20:22,812 - info - INFO - Total trades: 1593200
+2024-04-06 19:20:22,817 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 19:20:22,818 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 19:20:26,069 - info - INFO - Candle data generation and update complete for the 30m interval of the XLM/USDC pairing.
+2024-04-06 19:20:26,242 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 19:59:11,626 - info - INFO - Total trades: 1593200
+2024-04-06 19:59:11,630 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 19:59:11,631 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 19:59:13,422 - info - INFO - Candle data generation and update complete for the 1h interval of the XLM/USDC pairing.
+2024-04-06 19:59:13,435 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 20:03:53,228 - info - INFO - Total trades: 1593200
+2024-04-06 20:03:53,232 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 20:03:53,232 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 20:03:54,762 - info - INFO - Candle data generation and update complete for the 2h interval of the XLM/USDC pairing.
+2024-04-06 20:03:54,774 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 20:07:24,962 - info - INFO - Total trades: 1593200
+2024-04-06 20:07:24,965 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 20:07:24,966 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 20:07:27,652 - info - INFO - Candle data generation and update complete for the 6h interval of the XLM/USDC pairing.
+2024-04-06 20:07:27,660 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 20:16:54,972 - info - INFO - Total trades: 1593200
+2024-04-06 20:16:54,975 - info - INFO - Latest trade time: 2024-04-06 15:16:31
+2024-04-06 20:16:54,976 - info - INFO - Earliest trade time: 2024-03-07 14:17:21
+2024-04-06 20:16:58,478 - info - INFO - Candle data generation and update complete for the 24h interval of the XLM/USDC pairing.
+2024-04-06 20:16:58,505 - info - INFO - Successfully fetched 0 candles for XLM/USDC for all candle intervals.
+2024-04-06 20:16:58,506 - info - INFO - Completed generation and/or update of all candles for all pairings in the database.
+2024-04-06 20:25:28,637 - info - INFO - Fetching historical data for yXLM/yUSDC pairing...
+2024-04-06 20:26:48,155 - info - INFO - Generating and updating candle data for yXLM/yUSDC pairing...
+2024-04-06 20:26:54,825 - info - INFO - Total trades: 71546
+2024-04-06 20:26:54,825 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:26:54,825 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:26:54,912 - info - INFO - Candle data generation and update complete for the 1m interval of the yXLM/yUSDC pairing.
+2024-04-06 20:26:54,921 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:26:59,655 - info - INFO - Total trades: 71546
+2024-04-06 20:26:59,655 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:26:59,656 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:26:59,855 - info - INFO - Candle data generation and update complete for the 5m interval of the yXLM/yUSDC pairing.
+2024-04-06 20:26:59,869 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:27:06,496 - info - INFO - Total trades: 71546
+2024-04-06 20:27:06,496 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:27:06,497 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:27:06,606 - info - INFO - Candle data generation and update complete for the 15m interval of the yXLM/yUSDC pairing.
+2024-04-06 20:27:06,607 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:27:12,225 - info - INFO - Total trades: 71546
+2024-04-06 20:27:12,226 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:27:12,227 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:27:12,556 - info - INFO - Candle data generation and update complete for the 30m interval of the yXLM/yUSDC pairing.
+2024-04-06 20:27:12,559 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:27:18,995 - info - INFO - Total trades: 71546
+2024-04-06 20:27:18,996 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:27:18,996 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:27:19,157 - info - INFO - Candle data generation and update complete for the 1h interval of the yXLM/yUSDC pairing.
+2024-04-06 20:27:19,160 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:27:25,640 - info - INFO - Total trades: 71546
+2024-04-06 20:27:25,640 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:27:25,641 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:27:25,737 - info - INFO - Candle data generation and update complete for the 2h interval of the yXLM/yUSDC pairing.
+2024-04-06 20:27:25,740 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:27:32,099 - info - INFO - Total trades: 71546
+2024-04-06 20:27:32,099 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:27:32,099 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:27:32,215 - info - INFO - Candle data generation and update complete for the 6h interval of the yXLM/yUSDC pairing.
+2024-04-06 20:27:32,217 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:27:37,157 - info - INFO - Total trades: 71546
+2024-04-06 20:27:37,158 - info - INFO - Latest trade time: 2024-04-06 20:17:48
+2024-04-06 20:27:37,159 - info - INFO - Earliest trade time: 2024-03-07 19:18:23
+2024-04-06 20:27:37,285 - info - INFO - Candle data generation and update complete for the 24h interval of the yXLM/yUSDC pairing.
+2024-04-06 20:27:37,312 - info - INFO - Successfully fetched 0 candles for yXLM/yUSDC for all candle intervals.
+2024-04-06 20:27:37,325 - info - INFO - Completed generation and/or update of all candles for all pairings in the database.
+2024-04-06 20:28:51,462 - info - INFO - Fetching historical data for AFR/yUSDC pairing...
+2024-04-06 20:29:03,462 - info - INFO - Generating and updating candle data for AFR/yUSDC pairing...
+2024-04-06 20:29:06,606 - info - INFO - Total trades: 9073
+2024-04-06 20:29:06,607 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:06,607 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:06,621 - info - INFO - Candle data generation and update complete for the 1m interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:06,624 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:08,649 - info - INFO - Total trades: 9073
+2024-04-06 20:29:08,650 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:08,650 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:08,672 - info - INFO - Candle data generation and update complete for the 5m interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:08,674 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:12,826 - info - INFO - Total trades: 9073
+2024-04-06 20:29:12,841 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:12,841 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:12,889 - info - INFO - Candle data generation and update complete for the 15m interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:12,891 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:16,428 - info - INFO - Total trades: 9073
+2024-04-06 20:29:16,429 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:16,429 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:16,454 - info - INFO - Candle data generation and update complete for the 30m interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:16,455 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:18,424 - info - INFO - Total trades: 9073
+2024-04-06 20:29:18,424 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:18,425 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:18,446 - info - INFO - Candle data generation and update complete for the 1h interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:18,447 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:20,563 - info - INFO - Total trades: 9073
+2024-04-06 20:29:20,564 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:20,565 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:20,584 - info - INFO - Candle data generation and update complete for the 2h interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:20,585 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:23,272 - info - INFO - Total trades: 9073
+2024-04-06 20:29:23,273 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:23,274 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:23,295 - info - INFO - Candle data generation and update complete for the 6h interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:23,297 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:30,548 - info - INFO - Total trades: 9073
+2024-04-06 20:29:30,549 - info - INFO - Latest trade time: 2024-04-06 20:08:02
+2024-04-06 20:29:30,549 - info - INFO - Earliest trade time: 2024-03-07 20:04:53
+2024-04-06 20:29:30,576 - info - INFO - Candle data generation and update complete for the 24h interval of the AFR/yUSDC pairing.
+2024-04-06 20:29:30,578 - info - INFO - Successfully fetched 0 candles for AFR/yUSDC for all candle intervals.
+2024-04-06 20:29:30,578 - info - INFO - Completed generation and/or update of all candles for all pairings in the database.
+2024-04-06 20:38:16,168 - info - INFO - Fetching historical data for AFR/yXLM pairing...
+2024-04-06 20:39:54,699 - info - INFO - Generating and updating candle data for AFR/yXLM pairing...
+2024-04-06 20:40:03,887 - info - INFO - Total trades: 91243
+2024-04-06 20:40:03,888 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:03,888 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:04,032 - info - INFO - Candle data generation and update complete for the 1m interval of the AFR/yXLM pairing.
+2024-04-06 20:40:04,046 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:10,139 - info - INFO - Total trades: 91243
+2024-04-06 20:40:10,140 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:10,140 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:10,252 - info - INFO - Candle data generation and update complete for the 5m interval of the AFR/yXLM pairing.
+2024-04-06 20:40:10,253 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:27,056 - info - INFO - Total trades: 91243
+2024-04-06 20:40:27,057 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:27,057 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:27,190 - info - INFO - Candle data generation and update complete for the 15m interval of the AFR/yXLM pairing.
+2024-04-06 20:40:27,192 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:30,798 - info - INFO - Total trades: 91243
+2024-04-06 20:40:30,798 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:30,798 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:30,903 - info - INFO - Candle data generation and update complete for the 30m interval of the AFR/yXLM pairing.
+2024-04-06 20:40:30,904 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:34,104 - info - INFO - Total trades: 91243
+2024-04-06 20:40:34,104 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:34,105 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:34,189 - info - INFO - Candle data generation and update complete for the 1h interval of the AFR/yXLM pairing.
+2024-04-06 20:40:34,191 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:37,521 - info - INFO - Total trades: 91243
+2024-04-06 20:40:37,521 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:37,522 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:37,636 - info - INFO - Candle data generation and update complete for the 2h interval of the AFR/yXLM pairing.
+2024-04-06 20:40:37,637 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:41,315 - info - INFO - Total trades: 91243
+2024-04-06 20:40:41,316 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:41,316 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:41,451 - info - INFO - Candle data generation and update complete for the 6h interval of the AFR/yXLM pairing.
+2024-04-06 20:40:41,452 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:48,052 - info - INFO - Total trades: 91243
+2024-04-06 20:40:48,053 - info - INFO - Latest trade time: 2024-04-06 20:29:27
+2024-04-06 20:40:48,054 - info - INFO - Earliest trade time: 2024-03-07 19:30:22
+2024-04-06 20:40:48,210 - info - INFO - Candle data generation and update complete for the 24h interval of the AFR/yXLM pairing.
+2024-04-06 20:40:48,213 - info - INFO - Successfully fetched 0 candles for AFR/yXLM for all candle intervals.
+2024-04-06 20:40:48,214 - info - INFO - Completed generation and/or update of all candles for all pairings in the database.
+2024-04-06 20:53:25,691 - info - INFO - Fetching historical data for AFR/XLM pairing...
+2024-04-06 20:56:30,284 - info - INFO - Generating and updating candle data for AFR/XLM pairing...
+2024-04-06 20:56:39,779 - info - INFO - Total trades: 143211
+2024-04-06 20:56:39,781 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:56:39,782 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:56:40,188 - info - INFO - Candle data generation and update complete for the 1m interval of the AFR/XLM pairing.
+2024-04-06 20:56:40,201 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:56:47,883 - info - INFO - Total trades: 143211
+2024-04-06 20:56:47,883 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:56:47,884 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:56:48,213 - info - INFO - Candle data generation and update complete for the 5m interval of the AFR/XLM pairing.
+2024-04-06 20:56:48,214 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:56:56,090 - info - INFO - Total trades: 143211
+2024-04-06 20:56:56,090 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:56:56,090 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:56:56,298 - info - INFO - Candle data generation and update complete for the 15m interval of the AFR/XLM pairing.
+2024-04-06 20:56:56,299 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:57:03,547 - info - INFO - Total trades: 143211
+2024-04-06 20:57:03,547 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:57:03,548 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:57:03,707 - info - INFO - Candle data generation and update complete for the 30m interval of the AFR/XLM pairing.
+2024-04-06 20:57:03,708 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:57:09,810 - info - INFO - Total trades: 143211
+2024-04-06 20:57:09,810 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:57:09,810 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:57:09,975 - info - INFO - Candle data generation and update complete for the 1h interval of the AFR/XLM pairing.
+2024-04-06 20:57:09,976 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:57:15,246 - info - INFO - Total trades: 143211
+2024-04-06 20:57:15,247 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:57:15,248 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:57:15,496 - info - INFO - Candle data generation and update complete for the 2h interval of the AFR/XLM pairing.
+2024-04-06 20:57:15,498 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:57:24,921 - info - INFO - Total trades: 143211
+2024-04-06 20:57:24,922 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:57:24,922 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:57:25,129 - info - INFO - Candle data generation and update complete for the 6h interval of the AFR/XLM pairing.
+2024-04-06 20:57:25,130 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:57:36,339 - info - INFO - Total trades: 143211
+2024-04-06 20:57:36,340 - info - INFO - Latest trade time: 2024-04-06 20:36:21
+2024-04-06 20:57:36,340 - info - INFO - Earliest trade time: 2024-03-07 19:42:31
+2024-04-06 20:57:36,588 - info - INFO - Candle data generation and update complete for the 24h interval of the AFR/XLM pairing.
+2024-04-06 20:57:36,589 - info - INFO - Successfully fetched 0 candles for AFR/XLM for all candle intervals.
+2024-04-06 20:57:36,589 - info - INFO - Completed generation and/or update of all candles for all pairings in the database.
+2024-04-06 20:59:19,060 - info - INFO - Fetching historical data for AFR/USDC pairing...
+2024-04-06 20:59:38,698 - info - INFO - Generating and updating candle data for AFR/USDC pairing...
+2024-04-06 20:59:41,601 - info - INFO - Total trades: 17818
+2024-04-06 20:59:41,602 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:41,603 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:41,653 - info - INFO - Candle data generation and update complete for the 1m interval of the AFR/USDC pairing.
+2024-04-06 20:59:41,657 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:43,300 - info - INFO - Total trades: 17818
+2024-04-06 20:59:43,300 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:43,301 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:43,330 - info - INFO - Candle data generation and update complete for the 5m interval of the AFR/USDC pairing.
+2024-04-06 20:59:43,331 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:44,650 - info - INFO - Total trades: 17818
+2024-04-06 20:59:44,650 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:44,651 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:44,677 - info - INFO - Candle data generation and update complete for the 15m interval of the AFR/USDC pairing.
+2024-04-06 20:59:44,678 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:46,110 - info - INFO - Total trades: 17818
+2024-04-06 20:59:46,111 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:46,111 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:46,140 - info - INFO - Candle data generation and update complete for the 30m interval of the AFR/USDC pairing.
+2024-04-06 20:59:46,141 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:47,348 - info - INFO - Total trades: 17818
+2024-04-06 20:59:47,348 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:47,349 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:47,370 - info - INFO - Candle data generation and update complete for the 1h interval of the AFR/USDC pairing.
+2024-04-06 20:59:47,370 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:51,478 - info - INFO - Total trades: 17818
+2024-04-06 20:59:51,479 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:51,479 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:51,512 - info - INFO - Candle data generation and update complete for the 2h interval of the AFR/USDC pairing.
+2024-04-06 20:59:51,514 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:53,085 - info - INFO - Total trades: 17818
+2024-04-06 20:59:53,085 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:53,085 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:53,104 - info - INFO - Candle data generation and update complete for the 6h interval of the AFR/USDC pairing.
+2024-04-06 20:59:53,105 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:54,222 - info - INFO - Total trades: 17818
+2024-04-06 20:59:54,223 - info - INFO - Latest trade time: 2024-04-06 20:54:52
+2024-04-06 20:59:54,223 - info - INFO - Earliest trade time: 2024-03-07 20:04:45
+2024-04-06 20:59:54,252 - info - INFO - Candle data generation and update complete for the 24h interval of the AFR/USDC pairing.
+2024-04-06 20:59:54,253 - info - INFO - Successfully fetched 0 candles for AFR/USDC for all candle intervals.
+2024-04-06 20:59:54,254 - info - INFO - Completed generation and/or update of all candles for all pairings in the database.

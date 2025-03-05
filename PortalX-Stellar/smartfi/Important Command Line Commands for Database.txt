@@ -1,0 +1,42 @@
+Important Command Line Commands for Database
+
+SELECT MAX(column) FROM table; - Returns highest item on database list in column
+
+SELECT MIN(column) FROM table; - Returns lowest item on databse list in column
+
+SELECT * FROM table ORDER BY column DESC LIMIT 100; - Returns 100 records starting with highest on list of column and descending
+
+SELECT COUNT(*) FROM table; - Returns total number of records in table
+
+\d table - Returns table information
+
+C:\Windows\SysWOW64>cd C:\Program Files\PostgreSQL\16
+
+C:\Program Files\PostgreSQL\16>psql -U postgres
+Password for user postgres: $Poofah32567 or Poofah32567$
+
+postgres=# SHOW data_directory; - Returns data_directory path: C:/Users/ortho/VS Code Projects/Databases
+
+postgres=# SHOW log_directory; - Returns log_directory: log
+
+postgres=# help
+Returns:
+You are using psql, the command-line interface to PostgreSQL.
+Type:  \copyright for distribution terms
+       \h for help with SQL commands
+       \? for help with psql commands
+       \g or terminate with semicolon to execute query
+       \q to quit
+
+postgres=# \c stellar_trading - Returns stellar_trading=# prompt
+
+psql -U legacygold -d stellar_trading - Logs in as user 'legacygold'
+
+psql -U [username] -d [database_name]
+
+
+
+
+
+
+             
